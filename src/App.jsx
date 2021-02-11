@@ -18,7 +18,7 @@ const element = (
       onClick={
         (e) => {
           e.preventDefault();
-          window.location.href='https://github.com/ckjoshi1997';
+          window.location.href='https://github.com/ckjoshi1997/assignment1';
       }
     }>
       View my GitHub Repo
