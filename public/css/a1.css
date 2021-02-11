@@ -1,0 +1,66 @@
+body {
+  font-size: 13pt;
+  background-color: #f7edd6;
+  color: #3488ac;
+  font-family: Arial, san-serif;
+  text-align: justify;
+}
+
+.main {
+  margin: auto;
+  width: 70%;
+  padding: 25px;
+}
+
+.name {
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40pt;
+  font-weight: bold;
+  color: #3aaae6;
+  font-family: Arial, Helvetica, sans-serif;
+  border: black;
+}
+
+.pic {
+  height: 400px;
+  width: 400px;
+  border: pink;
+  border-style: groove;
+}
+
+.profile {
+  margin: auto;
+}
+
+.paragraph {
+  font-size: 14pt;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 15px;
+  border: 10px dotted pink;
+  text-align: justify;
+}
+
+.button {
+  border: white;
+  background-color: rgba(135, 206, 250, 0.646);
+  border-style: double;
+  color: black;
+  text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 30%;
+  margin: auto;
+  box-shadow: 4px 4px 4px 4px #999;
+}
+
+.text {
+  margin-left: auto;
+  margin-right: auto;
+}
